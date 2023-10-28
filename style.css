@@ -99,6 +99,12 @@ a {
 
 }
 
+.imagen {
+
+    border: #3882f6 solid 2px;
+    border-radius: 5px;
+}
+
 .texto2 {
 
     text-align: center;
